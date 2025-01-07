@@ -40,3 +40,63 @@
 2024-11-19 15:40:42 [main] INFO  stepdefinitions.GoogleSteps - Arama sonuçlarında şu anahtar kelime bulundu: Java
 2024-11-19 15:40:42 [main] INFO  utils.LoggerHelper - Test başarıyla tamamlandı: User searches for a keyword on Google
 2024-11-19 15:40:42 [main] INFO  utils.LoggerHelper - Driver kapatıldı.
+2024-11-20 11:02:06 [main] INFO  runners.TestRunner - Cucumber Test Runner başlatılıyor...
+2024-11-20 11:02:07 [main] INFO  utils.LoggerHelper - Test Başlıyor: User searches for a keyword on Google
+2024-11-20 11:02:10 [main] INFO  utils.LoggerHelper - Driver başlatıldı ve test hazırlandı.
+2024-11-20 11:02:11 [main] INFO  stepdefinitions.GoogleSteps - Google ana sayfasına gidildi: https://www.google.com/
+2024-11-20 11:02:11 [main] INFO  stepdefinitions.GoogleSteps - Kullanıcı şu terimi arıyor: Java tutorials
+2024-11-20 11:02:11 [main] INFO  stepdefinitions.GoogleSteps - Google ana sayfasında çerezler kabul edildi.
+2024-11-20 11:02:12 [main] INFO  stepdefinitions.GoogleSteps - Arama kutusuna şu anahtar kelime girildi: Java tutorials
+2024-11-20 11:02:12 [main] INFO  stepdefinitions.GoogleSteps - Arama işlemi gönderildi.
+2024-11-20 11:02:13 [main] INFO  stepdefinitions.GoogleSteps - Arama sonuçları doğrulanıyor: Java
+2024-11-20 11:02:13 [main] INFO  stepdefinitions.GoogleSteps - Arama sonuçlarında şu anahtar kelime bulundu: Java
+2024-11-20 11:02:14 [main] INFO  utils.LoggerHelper - Test başarıyla tamamlandı: User searches for a keyword on Google
+2024-11-20 11:02:14 [main] INFO  utils.LoggerHelper - Driver kapatıldı.
+2025-01-07 16:44:58 [main] INFO  runners.TestRunner - Cucumber Test Runner başlatılıyor...
+2025-01-07 16:44:58 [main] INFO  utils.LoggerHelper - Test Başlıyor: User searches for a keyword on Google
+2025-01-07 16:45:01 [main] INFO  utils.LoggerHelper - Driver başlatıldı
+2025-01-07 16:45:04 [main] INFO  stepdefinitions.GoogleSteps - Google ana sayfasına gidildi: https://www.google.com/
+2025-01-07 16:45:04 [main] INFO  stepdefinitions.GoogleSteps - Kullanıcı şu terimi arıyor: Java tutorials
+2025-01-07 16:45:04 [main] INFO  stepdefinitions.GoogleSteps - Google ana sayfasında çerezler kabul edildi.
+2025-01-07 16:45:05 [main] INFO  stepdefinitions.GoogleSteps - Arama kutusuna şu anahtar kelime girildi: Java tutorials
+2025-01-07 16:45:05 [main] INFO  stepdefinitions.GoogleSteps - Arama işlemi gönderildi.
+2025-01-07 16:45:06 [main] INFO  stepdefinitions.GoogleSteps - Arama sonuçları doğrulanıyor: Java
+2025-01-07 16:45:06 [main] INFO  stepdefinitions.GoogleSteps - Arama sonuçlarında şu anahtar kelime bulundu: Java
+2025-01-07 16:45:06 [main] INFO  utils.LoggerHelper - Test başarıyla tamamlandı: User searches for a keyword on Google
+2025-01-07 16:45:06 [main] INFO  utils.LoggerHelper - Driver kapatıldı.
+2025-01-07 19:44:21 [main] INFO  runners.TestRunner - Cucumber Test Runner başlatılıyor...
+2025-01-07 19:44:22 [main] INFO  utils.LoggerHelper - Test Başlıyor: User searches for a keyword on Google
+2025-01-07 19:44:25 [main] INFO  utils.LoggerHelper - Driver başlatıldı
+2025-01-07 19:44:27 [main] INFO  stepdefinitions.GoogleSteps - Google ana sayfasına gidildi: https://www.google.com/
+2025-01-07 19:44:27 [main] INFO  stepdefinitions.GoogleSteps - Kullanıcı şu terimi arıyor: Java tutorials
+2025-01-07 19:44:27 [main] INFO  stepdefinitions.GoogleSteps - Google ana sayfasında çerezler kabul edildi.
+2025-01-07 19:44:28 [main] INFO  stepdefinitions.GoogleSteps - Arama kutusuna şu anahtar kelime girildi: Java tutorials
+2025-01-07 19:44:28 [main] INFO  stepdefinitions.GoogleSteps - Arama işlemi gönderildi.
+2025-01-07 19:44:29 [main] INFO  stepdefinitions.GoogleSteps - Arama sonuçları doğrulanıyor: Java
+2025-01-07 19:44:30 [main] INFO  stepdefinitions.GoogleSteps - Arama sonuçlarında şu anahtar kelime bulundu: Java
+2025-01-07 19:44:30 [main] INFO  utils.LoggerHelper - Test başarıyla tamamlandı: User searches for a keyword on Google
+2025-01-07 19:44:31 [main] INFO  utils.LoggerHelper - Driver kapatıldı.
+2025-01-07 20:05:14 [main] INFO  runners.TestRunner - Cucumber Test Runner başlatılıyor...
+2025-01-07 20:05:15 [main] INFO  utils.LoggerHelper - Test Başlıyor: User searches for a keyword on Google
+2025-01-07 20:05:16 [main] INFO  utils.LoggerHelper - Driver başlatıldı
+2025-01-07 20:05:19 [main] INFO  stepdefinitions.GoogleSteps - Google ana sayfasına gidildi: https://www.google.com/
+2025-01-07 20:05:19 [main] INFO  stepdefinitions.GoogleSteps - Kullanıcı şu terimi arıyor: Java tutorials
+2025-01-07 20:05:19 [main] INFO  stepdefinitions.GoogleSteps - Google ana sayfasında çerezler kabul edildi.
+2025-01-07 20:05:20 [main] INFO  stepdefinitions.GoogleSteps - Arama kutusuna şu anahtar kelime girildi: Java tutorials
+2025-01-07 20:05:20 [main] INFO  stepdefinitions.GoogleSteps - Arama işlemi gönderildi.
+2025-01-07 20:05:21 [main] INFO  stepdefinitions.GoogleSteps - Arama sonuçları doğrulanıyor: Java
+2025-01-07 20:05:22 [main] INFO  stepdefinitions.GoogleSteps - Arama sonuçlarında şu anahtar kelime bulundu: Java
+2025-01-07 20:05:22 [main] INFO  utils.LoggerHelper - Test başarıyla tamamlandı: User searches for a keyword on Google
+2025-01-07 20:05:22 [main] INFO  utils.LoggerHelper - Driver kapatıldı.
+2025-01-07 20:11:29 [main] INFO  runners.TestRunner - Cucumber Test Runner başlatılıyor...
+2025-01-07 20:11:29 [main] INFO  utils.LoggerHelper - Test Başlıyor: User searches for a keyword on Google
+2025-01-07 20:11:31 [main] INFO  utils.LoggerHelper - Driver başlatıldı
+2025-01-07 20:11:32 [main] INFO  stepdefinitions.GoogleSteps - Google ana sayfasına gidildi: https://www.google.com/
+2025-01-07 20:11:32 [main] INFO  stepdefinitions.GoogleSteps - Kullanıcı şu terimi arıyor: Java tutorials
+2025-01-07 20:11:32 [main] INFO  stepdefinitions.GoogleSteps - Google ana sayfasında çerezler kabul edildi.
+2025-01-07 20:11:33 [main] INFO  stepdefinitions.GoogleSteps - Arama kutusuna şu anahtar kelime girildi: Java tutorials
+2025-01-07 20:11:33 [main] INFO  stepdefinitions.GoogleSteps - Arama işlemi gönderildi.
+2025-01-07 20:11:34 [main] INFO  stepdefinitions.GoogleSteps - Arama sonuçları doğrulanıyor: Java
+2025-01-07 20:11:34 [main] INFO  stepdefinitions.GoogleSteps - Arama sonuçlarında şu anahtar kelime bulundu: Java
+2025-01-07 20:11:34 [main] INFO  utils.LoggerHelper - Test başarıyla tamamlandı: User searches for a keyword on Google
+2025-01-07 20:11:35 [main] INFO  utils.LoggerHelper - Driver kapatıldı.

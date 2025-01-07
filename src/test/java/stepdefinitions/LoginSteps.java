@@ -12,11 +12,13 @@ public class LoginSteps {
 
 	@Given("the user is on the login page")
 	public void theUserIsOnTheLoginPage() {
+
 		driver.get(config.ConfigReader.getProperty("url"));
 	}
 
 	@When("the user enters valid credentials")
 	public void theUserEntersValidCredentials() {
+
 		loginPage.login("testUser", "password123");
 	}
 
@@ -25,3 +27,6 @@ public class LoginSteps {
 		// Assertion logic
 	}
 }
+
+
+

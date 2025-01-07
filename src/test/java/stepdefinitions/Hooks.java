@@ -21,7 +21,7 @@ public class Hooks {
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
 
-		LoggerHelper.info("Driver başlatıldı ve test hazırlandı.");
+		LoggerHelper.info("Driver başlatıldı");
 	}
 
 	@After

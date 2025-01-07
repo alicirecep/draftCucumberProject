@@ -170,11 +170,7 @@ Testlerle ilgili kaynak dosyalarını içerir.
         <artifactId>cucumber-java</artifactId>
         <version>7.13.0</version>
     </dependency>
-    <dependency>
-        <groupId>com.aventstack</groupId>
-        <artifactId>extentreports</artifactId>
-        <version>5.0.9</version>
-    </dependency>
+   
 </dependencies>
 
 ```
